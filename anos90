@@ -1,0 +1,49 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/003/222/112/full/20210501_115110.jpg?1619880727", BLOQUEADO-Os Maiores Sucessos Dos Anos 90 Vol.1
+
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=KB7BeJs-Flo
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/d73f9c_2f2a6d8139a44fab8627f4ad8f942473~mv2.jpg", Os Maiores Sucessos Dos Anos 90 Vol.2
+
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=KB7BeJs-Flo
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/d73f9c_d7639d489b274316a7d2ac4fc6deaaaa~mv2.jpg", Os Maiores Sucessos Dos Anos 90 Vol.3
+
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=neTQTXR_WCE
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/d73f9c_d0436fdb182b4186bfb3eb2a74a37aa7~mv2.jpg", Os Maiores Sucessos Dos Anos 90 Vol.4
+
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=bjCMBrwg4qY
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/d73f9c_6c60281b23294856b74795cf8e3cc3a1~mv2.jpg", Os Maiores Sucessos Dos Anos 90 Vol.5
+
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=yApwfHRYWaY
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/d73f9c_f414fd5d4fe34ed9b55d32b3b3ee05b5~mv2.jpg", Os Maiores Sucessos Dos Anos 90 Vol.6
+
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=fmHv6fZV0fs
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/003/222/147/original/20210501_121246.jpg?1619882044", Os Maiores Sucessos Dos Anos 90 Vol.7
+
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=glRPnSqaIPQ
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/003/222/144/original/20210501_121158.jpg?1619881992", Os Maiores Sucessos Dos Anos 90 Vol.8
+
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=fmHv6fZV0fs
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
